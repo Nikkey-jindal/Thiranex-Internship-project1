@@ -106,7 +106,7 @@ https://github.com/Nikkey-jindal/Thiranex-Internship-project1
 Frontend Developer | Web Development Enthusiast
 
 - GitHub: https://github.com/Nikkey-jindal
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
+- LinkedIn: https://www.linkedin.com/in/nikkey-jindal-356492398?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
